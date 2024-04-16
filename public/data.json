@@ -1,0 +1,207 @@
+[
+    {
+      "estate_title": "Modern Apartment in Downtown",
+      "id": 1,
+      "segment_name": "Apartment",
+      "description": "Stunning modern apartment with breathtaking views of the city skyline. Spacious living room, fully equipped kitchen, and access to a communal swimming pool.",
+      "price": "$300,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Downtown, Metropolis",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+      
+    },
+    {
+      "estate_title": "Luxury Villa by the Sea",
+      "id": 2,
+      "segment_name": "Villa",
+      "description": "Exquisite villa nestled along the coastline, offering panoramic ocean views. Features spacious rooms, private swimming pool, and lush gardens.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Oceanfront, Seaside Resort",
+      "facilities": ["living room", "swimming pool", "kitchen", "garden"]
+      
+    },
+    {
+      "estate_title": "Cozy Cottage in the Woods",
+      "id": 3,
+      "segment_name": "Cottage",
+      "description": "Charming cottage surrounded by tranquil forest. Perfect retreat for nature lovers. Features a rustic interior, fireplace, and outdoor deck.",
+      "price": "$150,000",
+      "status": "sale",
+      "area": "1200 sq ft",
+      "location": "Woodland Retreat, Forest Hills",
+      "facilities": ["living room", "kitchen", "fireplace", "deck"]
+      
+    },
+    {
+      "estate_title": "Urban Loft in Historic Building",
+      "id": 4,
+      "segment_name": "Loft",
+      "description": "Spacious loft apartment located in a historic building. Industrial-chic design with exposed brick walls and high ceilings. Access to rooftop terrace.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Historic District, City Center",
+      "facilities": ["living room", "kitchen", "rooftop terrace"]
+  
+    },
+    {
+      "estate_title": "Executive Penthouse Suite",
+      "id": 5,
+      "segment_name": "Penthouse",
+      "description": "Luxurious penthouse offering unparalleled city views. High-end finishes, gourmet kitchen, and exclusive access to fitness center and concierge services.",
+      "price": "$2,000,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Skyline Towers, Financial District",
+      "facilities": ["living room", "kitchen", "fitness center", "concierge"]
+      
+    },
+    {
+      "estate_title": "Seaside Retreat",
+      "id": 6,
+      "segment_name": "Beach House",
+      "description": "Relaxing beach house steps away from the ocean. Open-concept living space, panoramic windows, and private beach access.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "2200 sq ft",
+      "location": "Seashell Bay, Coastal Haven",
+      "facilities": ["living room", "kitchen", "beach access"]
+      
+    },
+    {
+      "estate_title": "Family Home with Garden",
+      "id": 7,
+      "segment_name": "House",
+      "description": "Warm family home with spacious garden. Ideal for entertaining with open-plan layout and outdoor patio.",
+      "price": "$400,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "Suburban Serenity, Meadowview",
+      "facilities": ["living room", "kitchen", "garden", "patio"]
+      
+    },
+    {
+      "estate_title": "Mountain Cabin Retreat",
+      "id": 8,
+      "segment_name": "Cabin",
+      "description": "Cozy cabin nestled in the mountains. Rustic charm with wood-burning fireplace and stunning views. Perfect for nature enthusiasts.",
+      "price": "$250,000",
+      "status": "sale",
+      "area": "1000 sq ft",
+      "location": "Mountain Peak, Alpine Village",
+      "facilities": ["living room", "kitchen", "fireplace"]
+      
+    },
+    {
+      "estate_title": "City Center Condo",
+      "id": 9,
+      "segment_name": "Condo",
+      "description": "Convenient condo in the heart of the city. Modern amenities, balcony with city views, and access to fitness center and concierge services.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "1000 sq ft",
+      "location": "Central Plaza, Downtown",
+      "facilities": ["living room", "kitchen", "balcony", "fitness center", "concierge"]
+      
+    },
+    {
+      "estate_title": "Lakefront Retreat",
+      "id": 10,
+      "segment_name": "Lake House",
+      "description": "Tranquil lakefront property with stunning views. Spacious deck for outdoor entertaining, boat dock, and cozy fireplace.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Lakeside Haven, Tranquility Shores",
+      "facilities": ["living room", "kitchen", "deck", "boat dock", "fireplace"]
+      
+    },
+    {
+      "estate_title": "Cosmopolitan Studio Apartment",
+      "id": 11,
+      "segment_name": "Studio",
+      "description": "Chic studio apartment in the heart of the city. Stylish design, compact kitchenette, and access to rooftop terrace.",
+      "price": "$200,000",
+      "status": "sale",
+      "area": "500 sq ft",
+      "location": "Metropolitan Center, Urban Hub",
+      "facilities": ["living room", "kitchenette", "rooftop terrace"]
+      
+    },
+    {
+      "estate_title": "Riverside Mansion",
+      "id": 12,
+      "segment_name": "Mansion",
+      "description": "Grand mansion overlooking the river. Lavish interiors, expansive grounds, and luxurious amenities including a home theater and wine cellar.",
+      "price": "$5,000,000",
+      "status": "sale",
+      "area": "10000 sq ft",
+      "location": "Riverside Estate, Riverview",
+      "facilities": ["living room", "kitchen", "home theater", "wine cellar", "garden"]
+      
+    },
+    {
+      "estate_title": "Ski Chalet Retreat",
+      "id": 13,
+      "segment_name": "Chalet",
+      "description": "Inviting ski chalet nestled in the mountains. Cozy interiors, stone fireplace, and stunning alpine views.",
+      "price": "$700,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Ski Resort Village, Snowy Peaks",
+      "facilities": ["living room", "kitchen", "fireplace"]
+      
+    },
+    {
+      "estate_title": "Golf Course Villa",
+      "id": 14,
+      "segment_name": "Golf Villa",
+      "description": "Elegant villa overlooking the golf course. Spacious rooms, gourmet kitchen, and expansive outdoor terrace for entertaining.",
+      "price": "$900,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Fairway Greens, Golf Resort",
+      "facilities": ["living room", "kitchen", "outdoor terrace"]
+      
+    },
+    {
+      "estate_title": "Historic Townhouse",
+      "id": 15,
+      "segment_name": "Townhouse",
+      "description": "Beautifully restored historic townhouse. Classic architecture, modern amenities, and charming courtyard garden.",
+      "price": "$750,000",
+      "status": "sale",
+      "area": "2800 sq ft",
+      "location": "Heritage District, Old Town",
+      "facilities": ["living room", "kitchen", "courtyard garden"]
+      
+    },
+    {
+      "estate_title": "Beachfront Condo",
+      "id": 16,
+      "segment_name": "Condo",
+      "description": "Contemporary condo with direct beach access. Floor-to-ceiling windows, sleek design, and resort-style amenities including pool and gym.",
+      "price": "$850,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "Oceanfront Oasis, Coastal Retreat",
+      "facilities": ["living room", "kitchen", "beach access", "pool", "gym"]
+      
+    }
+  ]
+  
+  const url = 'https://bayut.p.rapidapi.com/properties/list?locationExternalIDs=5002%2C6020&hitsPerPage=16&page=0&lang=en&sort=city-level-score&categoryExternalID=4&bathsMin=1';
+	const options = {
+		method: 'GET',
+		headers: {
+			'X-RapidAPI-Key': '800f4bc08cmsh030c881fb39eb6ep1ea5b9jsnfadcc48a685b',
+			'X-RapidAPI-Host': 'bayut.p.rapidapi.com'
+		}
+	};
+	
+	useEffect(()=>{
+		fetch(url, options).then(res=>res.json()).then(data=>console.log(data.hits))
+	},[])
